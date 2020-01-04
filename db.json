@@ -1,0 +1,27 @@
+{
+  "LangkahP": [
+    {
+      "id": "1"
+      "langkah":[
+        {
+          "1" : "Bentangkan hijab polos sesuai keinginan sejajar bahu.",
+          "2" : "Letakan hijab di atas kepala dengan memegang bagian kanan dan kiri.",
+          "3" : "Tarik bagian kanan dan selipkan ke bahu kiri hingga berputar ke bagian kanan.",
+          "4" : "Sematkan pentul di bagian kiri hijab kemudian rapikan.",
+          "5" : "It's done!"
+        }
+      ]
+    },
+    {
+      "id": "2"
+      "langkah":[
+        {
+          "1" : "Kenakan inner ninja untuk menutupi bagian leher mu,",
+          "2" : "Lalu sematkan pashmina dengan panjang kedua sisi yang sama tanpa memerlukan peniti atau jarum pentul.",
+          "3" : "Untuk mempercantik penampilan mu, kamu bisa kenakan anting sebagai hiasan tambahan",
+          "4" : "It's done!"
+         }
+      ]
+    }
+  ]
+}
